@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ke100n4ik.triggerideactiononfilechange
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
